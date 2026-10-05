@@ -1,5 +1,7 @@
 ## ChatGPT On Web 国粹版
 
+[![Deploy to Railyard](https://app.railyard.run/deploy/badge)](https://app.railyard.run/deploy?repo=https://github.com/vastxie/Happy-ChatGPT)
+
 <img width="457" alt="image" src="https://github.com/vastxie/Happy-ChatGPT/assets/24899308/c3163e0d-95a5-46b9-8e1b-c9db3fe86247">
 
 国粹版的核心在于 `system` 角色中添加以下预设（对 `GPT-3.5` API 有效）：
